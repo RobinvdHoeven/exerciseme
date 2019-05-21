@@ -69,8 +69,26 @@ a:active {
 .footer {
 position: fixed;
 bottom: 0;
-height: 175px;
+height: 90px;
 width: 100%;
+background-color: #FFFFFF;
+color: #000000;
+}
+#twoCard{
+    margin-top: -90px;
+    height: 200px;
+    background-color: #33343C;
+    color: #FFFFFF;
+    border-right: solid 1px;
+    border-color: #50525A;
+}  
+
+#lastCard{
+    border: none;
+    margin-top: -90px;
+    height: 200px;
+    background-color: #33343C;
+    color: #FFFFFF;
 }
 
 main.container-fluid {
@@ -120,16 +138,7 @@ p.background {
     height: 75px;
 }
 
-ul.footer {
-    font-size: 20px;
-}
-
 h5 {
     padding-top: 20px;
-    color: white;
-}
-
-p.footer {
-    padding-top: 40px;
     color: white;
 }
