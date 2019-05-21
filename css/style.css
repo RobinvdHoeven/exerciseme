@@ -1,0 +1,135 @@
+@import "./fonts/Gotham-Black.otf";
+@import "./fonts/Gotham-Bold.otf";
+@import "./fonts/Gotham-Light.otf";
+
+body {
+    overflow-x: hidden;
+    background-image: linear-gradient(to right,#35FC89, #CEF52E);
+
+}
+
+.navbar {
+    position: relative;
+    background-color: #FFFFFF;
+    height: 65px;
+    width: 100%;
+}
+
+img.logo {
+    height: 55px;   
+    width: 95px;
+}
+
+img.logo2 {
+    height: 30px;   
+    width: 80px;
+}
+
+
+/*  Arial Bold 14px color 009FE3 */
+.navFont {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 20px;
+    color: #009FE3;
+    padding-left: 26px;
+}
+
+.navButtonFont {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 20px; 
+} 
+
+.navButton {
+    width: 110px;
+}
+
+
+a:link {
+    color: #33343C;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #33343C;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #3BFC86;
+    text-decoration: none;
+}
+
+a:active {
+    color: #95F9BB;
+    text-decoration: none;
+}
+
+.footer {
+position: fixed;
+bottom: 0;
+height: 175px;
+width: 100%;
+}
+
+main.container-fluid {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+ul {
+    list-style-type: none;
+  }
+
+li {
+    display: inline;
+}
+
+ul.logo {
+    margin-left: 50px;
+}
+
+ul.logo2 {
+
+}
+
+ul.nav {
+    margin-right: 650px;
+    margin-bottom: 15px;
+}
+
+article {
+    float: left;
+    width: 1210px;
+    max-width: 100%;
+    margin: 60px 0 60px 0;
+    margin-left: 150px;
+    font-size: 20px;
+    padding: 20px;
+}
+
+h1 {
+    font-family: Franklin Gothic Book;
+    color: white;
+    font-size: 65px;
+}
+
+p.background {
+    width: 250px;
+    height: 75px;
+}
+
+ul.footer {
+    font-size: 20px;
+}
+
+h5 {
+    padding-top: 20px;
+    color: white;
+}
+
+p.footer {
+    padding-top: 40px;
+    color: white;
+}
