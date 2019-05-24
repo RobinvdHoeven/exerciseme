@@ -166,3 +166,7 @@ p.background {
 .altcolor {
     color: lime;
 }
+
+.form-group {
+    margin-bottom: 0px;
+}

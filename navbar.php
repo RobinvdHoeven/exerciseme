@@ -12,16 +12,16 @@
                       INFO<span class="altcolor">▼</span>
                   </a>
                   <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                      <a class="dropdown-item" href="#">Exercise</a>
-                      <a class="dropdown-item" href="#">Nutrition</a>
+                      <a class="dropdown-item" href="./index.php?content=exercise">Exercise</a>
+                      <a class="dropdown-item" href="./index.php?content=nutrition">Nutrition</a>
                   </div>
                   </div>
             <li> <a href="./index.php?content=about" class="navFont"> ABOUT </a></li>
-            <li> <a href="#" class="navFont"> CONTACT </a></li>
-            <li> <a href="#" class="navFont"> FAQ </a></li>
+            <li> <a href="./index.php?content=contact" class="navFont"> CONTACT </a></li>
+            <li> <a href="./index.php?content=faq" class="navFont"> FAQ </a></li>
             </ul>
             <ul class="logo2">
-            <li><a href="#" class="right"><img src="./img/placeholder-man.png" class="logo"></a></li>
+            <li><a href="./index.php?content=signup" class="right"><img src="./img/placeholder-man.png" class="logo"></a></li>
 </ul>
         </div>
 </main>
