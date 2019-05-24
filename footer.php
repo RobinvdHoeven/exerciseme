@@ -1,15 +1,36 @@
 <div class="footer">
-<div class="container-fluid">
+<div class="container">
   <div class="row">
-    <div class="col-sm">
-      One of three columns
+    <div class="col-md-12 col-lg-4 footerblock" id="twoCard">
+      <a href="#">
+        <br>
+        <br>
+        <p id="cardTitle">GET INFORMATION</p>
+        <p id="cardSubtext">Go here if you want to know more 
+        <br>
+        about exericising <span class="altcolor">➜</span></p>
+      </a>
     </div>
-    <div class="col-sm">
-      One of three columns
+    <div class="col-md-12 col-lg-4 footerblock" id="twoCard">
+    <a href="#">
+    <br>
+    <br>
+      <p id="cardTitle">JOIN US TODAY</p>
+      <p id="cardSubtext">By signing up you can track your 
+        <br>
+      own progress <span class="altcolor">➜</span></p>
     </div>
-    <div class="col-sm">
-      One of three columns
+</a>
+    <div class="col-md-12 col-lg-4 footerblock" id="lastCard">
+    <a href="#">
+    <br>
+    <br>
+      <p id="cardTitle">CONTACT US</p>
+      <p id="cardSubtext">Anything unclear?
+        <br>
+      We're here to help! <span class="altcolor">➜</span></p>
     </div>
+</a>
   </div>
 </div>
 </div>
