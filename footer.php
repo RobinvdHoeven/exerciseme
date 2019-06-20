@@ -2,7 +2,7 @@
 <div class="container">
   <div class="row">
     <div class="col-md-12 col-lg-4 footerblock" id="twoCard">
-      <a href="#">
+      <a href="./index.php?content=exercise">
         <br>
         <br>
         <p id="cardTitle">GET INFORMATION</p>
@@ -12,7 +12,7 @@
       </a>
     </div>
     <div class="col-md-12 col-lg-4 footerblock" id="twoCard">
-    <a href="#">
+    <a href="./index.php?content=signup">
     <br>
     <br>
       <p id="cardTitle">JOIN US TODAY</p>
@@ -22,7 +22,7 @@
     </div>
 </a>
     <div class="col-md-12 col-lg-4 footerblock" id="lastCard">
-    <a href="#">
+    <a href="./index.php?content=contact">
     <br>
     <br>
       <p id="cardTitle">CONTACT US</p>

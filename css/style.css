@@ -170,3 +170,70 @@ p.background {
 .form-group {
     margin-bottom: 0px;
 }
+
+img.logo {
+    margin-right: 60px;
+}
+
+img.servicedesk {
+    margin-top: 153px;
+    margin-left: 98px;
+}
+
+img.aboutus {
+    margin-top: 146px;
+    margin-left: 80px;
+}
+
+article.signup {
+    margin-top: 0px;
+}
+
+a.navFont3 {
+    font-weight: bold;
+    margin-bottom: -100px;
+}
+
+a.navFont3:hover {
+    color: white;
+}
+
+section.padding {
+    margin-left: 190px;
+    margin-right: 190px;
+    margin-top: 70px;
+    padding-bottom: 250px;
+}
+
+a.levels {
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+a.levels:hover {
+    color: lightgrey;
+}
+
+button {
+    background-color: #33343C;
+    /* border: solid 3px #191A1E; */
+    border: none;
+    box-shadow: 2px 4px black;
+}
+
+h3.hello {
+    font-weight: bold;
+    font-size: 35px;
+}
+
+h1.bmi {
+    text-align: center;
+}
+
+.background {
+    font-size: 30px;
+    background-color: white;
+    text-align: center;
+    width: 700px;
+    margin-left: 400px;
+}

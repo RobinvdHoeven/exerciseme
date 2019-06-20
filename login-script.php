@@ -30,25 +30,25 @@ if (!empty($email) && !empty($password)) {
                 case 'customer':
                 // Link naar user homepage
                 echo '<div class="alert alert-success" role="alert">
-                You are now logged in as a user. You will head to the user homepage.
+                You are now logged in as a user. You will head to the homepage
                 </div>';
-                header("refresh:2; url=./index.php?content=home-user");
+                header("refresh:2; url=./index.php?content=homepage");
 
                 break;
                 case 'root':
                 // Link naar root homepage
                 echo '<div class="alert alert-success" role="alert">
-                You are now logged in as root. You will head to the root homepage.
+                You are now logged in as root. You will head to the homepage.
                 </div>';
-                header("refresh:2; url=./index.php?content=home-root");
+                header("refresh:2; url=./index.php?content=homepage");
 
                 break;
                 case 'administrator':
                 // Link naar administrator homepage
                 echo '<div class="alert alert-success" role="alert">
-                You are now logged in as an administrator. You will head to the administrator homepage.
+                You are now logged in as an administrator. You will head to the homepage.
                 </div>';
-                header("refresh:2; url=./index.php?content=home-administrator");
+                header("refresh:2; url=./index.php?content=homepage");
 
                 break;
                 default:
